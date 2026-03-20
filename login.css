@@ -92,11 +92,6 @@
     flex-direction: column;
 }
 
-.link-box p {
-    padding-bottom: 5px;
-    
-}
-
 .link-box a {
     text-decoration: none;
     transition: all 0.2s ease;
