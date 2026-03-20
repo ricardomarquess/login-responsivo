@@ -51,7 +51,7 @@
     border-style: none;
     border-radius: 10px;
     outline: none;
-    box-shadow:0px 0px 30px#d5d5d55e;
+    box-shadow:inset 0px 0px 15px#1e1e1e19;
     padding: 15px;
     font-family: 'Inter',sans-serif;
     font-weight: 300;
