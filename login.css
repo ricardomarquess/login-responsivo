@@ -20,7 +20,7 @@
     flex-direction: column;
     padding: 50px;
     margin: auto;
-    width: max-content;
+    max-width: max-content;
     height: max-content;
     box-shadow: 0px 0px 30px #d5d5d55e;
     border-radius: 20px;
@@ -95,6 +95,8 @@
 .link-box a {
     text-decoration: none;
     transition: all 0.2s ease;
+    color: #067BC2;
+    font-weight: 300;
 }
 
 .link-box a:hover {
